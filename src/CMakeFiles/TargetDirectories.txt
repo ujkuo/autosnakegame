@@ -1,0 +1,6 @@
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/CMakeFiles/rebuild_cache.dir
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/CMakeFiles/edit_cache.dir
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/CMakeFiles/grading.out.dir
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/CMakeFiles/grading_with_output.out.dir
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/CMakeFiles/snake_test.out.dir
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/CMakeFiles/print_test.out.dir

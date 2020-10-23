@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/PrintTerminal.cpp
+iostream
+-
+iomanip
+-
+PrintTerminal.hpp
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/PrintTerminal.hpp
+
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/PrintTerminal.hpp
+iostream
+-
+iomanip
+-
+
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/PrintTerminal_test.cpp
+vector
+-
+PrintTerminal.hpp
+/Users/ujkuo/Documents/NTU-IM-DSAP-homework/Final/src/PrintTerminal.hpp
+
